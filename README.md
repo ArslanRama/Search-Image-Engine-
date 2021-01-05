@@ -1,4 +1,4 @@
-# Image-Search-Engine using Pixabay API
+# Search Image Engine using Pixabay API
 
 ## Features!
 * Search **copyright-free** images by just hitting Enter 

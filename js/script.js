@@ -19,7 +19,6 @@ window.onload = () => {
         searchInput.value= ''
     })
 
-
     //get search button
     const searchBtn = document.querySelector('#searchBtn')
 
