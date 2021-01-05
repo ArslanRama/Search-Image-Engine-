@@ -1,6 +1,9 @@
 # Image-Search-Engine using Pixabay API
 
-## How to Use React Copyright-free Image searching app ?
+## Features!
+* Search **copyright-free** images by just hit enter 
+* Getting Image Data by Pixabay API !
+* Filter your search
 
-*** Search copyright-free images by just hit enter
-
+### Author
+Aslan
